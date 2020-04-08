@@ -1,3 +1,11 @@
+# Mikemag's Stuff on GitHub
+
+This is an example of how to create a free site on GitHub using no code, no special tools, just github.com. I'll keep it simple for now.
+
+The stuff that was already in this file is pretty useful, especially the stuff on Markdown. It's an easy thing to learn. The examples below are good. Try them out.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mikemag/mikemag.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

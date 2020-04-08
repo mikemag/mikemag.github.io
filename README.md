@@ -4,6 +4,11 @@ This is an example of how to create a free site on GitHub using no code, no spec
 
 The stuff that was already in this file is pretty useful, especially the stuff on Markdown. It's an easy thing to learn. The examples below are good. Try them out.
 
+Here's a code example I shared yesterday:
+
+![Some code](/images/BasicClasses.png)
+
+
 
 ## Welcome to GitHub Pages
 

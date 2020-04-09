@@ -2,6 +2,8 @@
 
 An overview of my public stuff on GitHub.
 
+You can see all of the source for these pages at https://github.com/mikemag/mikemag.github.io
+
 ## CS Education
 
 I have a small repository called [CS-Education](https://github.com/mikemag/CS-Education) of projects and code examples related to TEALS and voluenteering to help high school students learn computer science. There's samples in both C++, for the intro class, and Java for the AP CS A class.

@@ -22,6 +22,8 @@ I have two repositories related to ski and snowboard building.
 
 [MonkeyCAM](https://github.com/mikemag/MonkeyCAM) is an open source CAD/CAM program for designing skis and snowboards, and generating G-code programs to cut board parts with a CNC machine. It's a command line tool written in C++, with a React website wrapped around it. You can see site and play with the tool at https://monkeycam.org. 
 
+![MonkeyCAM Snowboard Outline](images/MonkeyCAM_board_outline.png)
+
 ### snoCAD-X
 
 [snoCAD-X](https://github.com/mikemag/snoCAD-X) is an open source CAD program for designing skis and snowboards. It was written by Dan Graf of Graf Snowboards in 2007 and has been widely used since then. In 2014 it was open sourced in order to allow the greater ski and snowboard bulding community to carry it forward.

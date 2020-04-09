@@ -14,6 +14,8 @@ I've started trying to create short videos explaining some concepts in CS that I
 
 Check it all out here: [CS Videos](cs-videos.md)
 
+![CS Videos](images/cs_vids_teaser.png)
+
 ## Ski and Snowboard Building
 
 I have two repositories related to ski and snowboard building.

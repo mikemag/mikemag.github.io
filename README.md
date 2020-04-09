@@ -2,7 +2,7 @@
 
 An overview of my public stuff on GitHub.
 
-You can see all of the source for these pages at https://github.com/mikemag/mikemag.github.io
+You can see all of the source for these pages at [https://github.com/mikemag/mikemag.github.io](https://github.com/mikemag/mikemag.github.io)
 
 ## CS Education
 
@@ -22,7 +22,7 @@ I have two repositories related to ski and snowboard building.
 
 ### MonkeyCAM
 
-[MonkeyCAM](https://github.com/mikemag/MonkeyCAM) is an open source CAD/CAM program for designing skis and snowboards, and generating G-code programs to cut board parts with a CNC machine. It's a command line tool written in C++, with a React website wrapped around it. You can see site and play with the tool at https://monkeycam.org. 
+[MonkeyCAM](https://github.com/mikemag/MonkeyCAM) is an open source CAD/CAM program for designing skis and snowboards, and generating G-code programs to cut board parts with a CNC machine. It's a command line tool written in C++, with a React website wrapped around it. You can see site and play with the tool at [https://monkeycam.org](https://monkeycam.org).
 
 ![MonkeyCAM Snowboard Outline](images/MonkeyCAM_board_outline.png)
 
@@ -32,4 +32,4 @@ I have two repositories related to ski and snowboard building.
 
 ### phpBB
 
-I have [a fork of phpBB 3](https://github.com/mikemag/phpbb) which is the forum software running at http://www.skibuilders.com/phpBB2/. It contains just a few changes to make the header look like the old site, and to give a bit more clarity to what size images you can upload.
+I have [a fork of phpBB 3](https://github.com/mikemag/phpbb) which is the forum software running at [http://www.skibuilders.com/phpBB2/](http://www.skibuilders.com/phpBB2/). It contains just a few changes to make the header look like the old site, and to give a bit more clarity to what size images you can upload.
